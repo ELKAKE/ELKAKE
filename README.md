@@ -2,8 +2,8 @@
 
 <h1 align="center">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-<p align="left">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
-<img align="center" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'>
+
+<img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
 
 ## 💻 Tecnologias:
  <p align="left">
