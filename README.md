@@ -4,7 +4,7 @@
 
 
 <img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
-
+<br>
 ## 💻 Tecnologias:
  <p align="left">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
