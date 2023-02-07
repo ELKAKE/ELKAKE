@@ -2,11 +2,8 @@
 
 <h1 align="center">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-<p>
 <p align="left">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
-<img align="rigth" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'>
-</p>
-
+<img align="center" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'>
 
 ## 💻 Tecnologias:
  <p align="left">
@@ -43,8 +40,8 @@
 - Manejo de páginas aplicando Responsive Design. (<a href="https://elkake.github.io/batatabit/">Batatabit</a>)
 - Manejo de paquetes para el uso de consola a tráves de NodeJS.
 
-<p>
-  📣 Necesitas contactame? Puedes hacerlo por: 
+## 🧔 Necesitas contactame? Puedes hacerlo por:
+<p>  
   <p><a href="mailto:gianco.marquez@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/g1akeruz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
