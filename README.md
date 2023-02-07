@@ -12,10 +12,10 @@
   <a href="https://www.instagram.com/g1akeruz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 <p>
+## 💻 Tecnologias:
  <p>
-   ## 💻 Tecnologias:
-   
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   </p>
-<p>
+
 ## ⚡ Conocimientos:
 - Desarrollo web
 - Responsive Design
@@ -40,5 +40,5 @@
 - Consumo de API Rest
 - Manejo de protocolos HTTP con Node
 - NPM
-</p>
+
 </p>
