@@ -3,7 +3,7 @@
 <h1 align="center">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 
-<img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
+<img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiasta con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin.</p>
 <br>
 ## 💻 Tecnologias:
  <p align="left">
@@ -34,13 +34,13 @@
 - Uso de Hooks en React
 
 ## 💼 Experiencia:
-- Construccion de paginas utilizando solo CSS, HTML y JS. (<a href="https://elkake.github.io/CyA_Pets/">C&A</a>)
-- Llamado de APIs para la extraccion de informacion utilizada en paginas. (<a href="https://elkake.github.io/pandagif/">PANDAGIF</a>)
-- Uso de la biblioteca React y NPM para construir SPA dinamicas utilizando componentes funcionales y manejo de estados. (<a href="https://elkake.github.io/routerdom/#/personajes">Ryck&MortyRRD</a>)
+- Construcción de páginas utilizando solo CSS, HTML y JS. (<a href="https://elkake.github.io/CyA_Pets/">C&A</a>)
+- Llamado de APIs para la extracción de información utilizada en páginas. (<a href="https://elkake.github.io/pandagif/">PANDAGIF</a>)
+- Uso de la biblioteca React y NPM para construir SPA dinámicas utilizando componentes funcionales y manejo de estados. (<a href="https://elkake.github.io/routerdom/#/personajes">Ryck&MortyRRD</a>)
 - Manejo de páginas aplicando Responsive Design. (<a href="https://elkake.github.io/batatabit/">Batatabit</a>)
-- Manejo de paquetes para el uso de consola a tráves de NodeJS.
+- Manejo de paquetes para el uso de consola a través de NodeJS.
 
-## 🧔 Necesitas contactame? Puedes hacerlo por:
+## 🧔 ¿Necesitas contactarme? Puedes hacerlo por:
 <p>  
   <p><a href="mailto:gianco.marquez@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/g1akeruz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
