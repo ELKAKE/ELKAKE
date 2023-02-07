@@ -13,8 +13,9 @@
   <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p>
+## ⚡ Conocimientos:
 ## 💻 Tecnologias:
+<p>
  <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -40,5 +41,4 @@
 - Consumo de API Rest
 - Manejo de protocolos HTTP con Node
 - NPM
-
 </p>
