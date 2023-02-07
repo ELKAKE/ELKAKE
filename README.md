@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/g1akeruz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
+<p>
 ## 💻 Tecnologias:
 
  <p>
@@ -28,7 +28,9 @@
    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>  
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-ReactRouterDOM-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/> 
-  
+  <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   </p>
 
 ## ⚡ Conocimientos:
@@ -38,3 +40,5 @@
 - Consumo de API Rest
 - Manejo de protocolos HTTP con Node
 - NPM
+
+</p>
