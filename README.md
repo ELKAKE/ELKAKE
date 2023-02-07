@@ -1,10 +1,10 @@
 [![ELKAKE](files/banner_gh.jpg)](https://www.linkedin.com/in/gianfranco-marquez-ruiz-b0021224a/)
 
-<h1 align="center">Hola a todos</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h1 align="center">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-<p align="left>Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
+<p align="left">Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
 
-<img align='right' src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='200"'>
+<img align="rigth" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='200"'>
 
 <p>
   📣 Necesitas contactame? Puedes hacerlo por: 
