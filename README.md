@@ -1,21 +1,20 @@
 [![ELKAKE](files/banner_gh.jpg)](https://www.linkedin.com/in/gianfranco-marquez-ruiz-b0021224a/)
 
-<h1 align="left">Hola a todos</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+<h1 align="center">Hola a todos</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-<p>Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
+<p align="left>Soy un desarrollador web entusiaste con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin</p>
 
 <img align='right' src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='200"'>
 
 <p>
-  📣 Necesitas contactame? Puedes hacerlo por:
-  <a href="mailto:gianco.marquez@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  📣 Necesitas contactame? Puedes hacerlo por: 
+  <p><a href="mailto:gianco.marquez@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/g1akeruz/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/giancomarquez/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+  
 </p>
-
-## ⚡ Conocimientos:
 ## 💻 Tecnologias:
-<p>
+
  <p align="left">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -41,4 +40,4 @@
 - Consumo de API Rest
 - Manejo de protocolos HTTP con Node
 - NPM
-</p>
+
