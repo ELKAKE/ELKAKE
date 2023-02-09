@@ -5,6 +5,8 @@
 
 <img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiasta con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin.</p>
 <br>
+### Portafolio: https://elkake.github.io/portafolio/
+<br>
 ## 💻 Tecnologias:
  <p align="left">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -19,7 +21,7 @@
    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>  
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>  
   <img src="https://img.shields.io/badge/-ReactRouterDOM-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
   </p>
