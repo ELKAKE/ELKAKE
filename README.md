@@ -4,8 +4,12 @@
 
 
 <img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiasta con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin.</p>
+
+
+
+### Portafolio: https://gian-marquez-ruiz.vercel.app/
+
 <br>
-### Portafolio: https://elkake.github.io/portafolio/
 <br>
 <br>
 
