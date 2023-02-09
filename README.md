@@ -3,15 +3,22 @@
 <h1 align="center">Hola a todos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 
-<img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'><p align="rigth">Soy un desarrollador web entusiasta con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin.</p>
 
+<img align="left" src='https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp' width='500"'>
 
+<br>
+<br>
+<br>
+
+<p align="rigth">Soy un desarrollador web entusiasta con ganas de aprender muchas cosas nuevas. Si consideras que mis conocimientos te pueden aportar algo, no dudes en contactarme por linkedin.</p>
+
+<br>
+<br>
+<br>
 
 ### Portafolio: https://gian-marquez-ruiz.vercel.app/
 
-<br>
-<br>
-<br>
+
 
 ## 💻 Tecnologias:
  <p align="left">
